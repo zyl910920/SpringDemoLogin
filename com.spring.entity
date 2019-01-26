@@ -1,0 +1,13 @@
+public class User{
+
+  private int id;  
+  
+  public User setId(int id){
+    this id = id;
+  }
+  public getInt(){
+    id;
+  }
+
+
+}
